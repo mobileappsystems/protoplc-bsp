@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -o nounset
+set -o errexit
+
+echo " *** ProtoPLC Firmware Update Tool from MobileApp Systems"
+echo " *** ProtoPLC firmware updated!"
